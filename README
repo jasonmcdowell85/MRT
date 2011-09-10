@@ -1,1 +1,5 @@
 This is the Message Recovery Tool README.
+
+Please note that as of this 9/9 commit/push, the project/folder/name/files aren't 100% clean and consistent in the naming.  Some way into the project, I changed its name and I have further clean up to do.  Everything should still load fine in VS 2010 and it should run as expected.  This is being uploaded as-is to get something on github.  
+
+I worked on this project (my first dive into the world of .NET, C#, and Visual Studio) for nearly three (3) months consecutively during nearly every waking minute after work.  I've taken the last few weeks off, and I plan to migrate everything to github in terms of the source and my bug/feature tracking.  I'm very new at this, however, I'm excited to see what github has to offer with backups of my source, versioning, etc.

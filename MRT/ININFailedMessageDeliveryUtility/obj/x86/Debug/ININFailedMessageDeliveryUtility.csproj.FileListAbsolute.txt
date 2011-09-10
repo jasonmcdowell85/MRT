@@ -1,0 +1,73 @@
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MailDirForm.resources
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.XMLRetrievalSettings.resources
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.read.1749.tlog
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.write.1749.tlog
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.ConfirmDialog.resources
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_ContextMenu_View_ColumnVisibility.resources
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe.config
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.pdb
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.exe
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.pdb
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe.manifest
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.application
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.exe.manifest
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.application
+C:\Users\Jmac\Documents\Visual Studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.TrustInfo.xml
+C:\Users\Jmac\documents\visual studio 2010\Projects\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryMessages_Confirm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe.config
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.exe
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.pdb
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe.manifest
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.application
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.pdb
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.ConfirmDialog.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MailDirForm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_ContextMenu_View_ColumnVisibility.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryMessages_Confirm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.XMLRetrievalSettings.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.read.1749.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.write.1749.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.TrustInfo.xml
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.exe.manifest
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.application
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryMessages_SuccessfullyMoved.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_LoadXMLProgressBar.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-08-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryWithOptions.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe.config
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.exe
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.pdb
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe.manifest
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.application
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.exe
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\bin\Debug\Message Recovery Tool.pdb
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.ConfirmDialog.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MailDirForm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_ContextMenu_View_ColumnVisibility.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_LoadXMLProgressBar.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryMessages_Confirm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryMessages_SuccessfullyMoved.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_RetryWithOptions.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.XMLRetrievalSettings.resources
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.read.1749.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\GenerateResource.write.1749.tlog
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.TrustInfo.xml
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.exe.manifest
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\Message Recovery Tool.application
+C:\Users\jmac\Documents\Visual Studio 2010\Projects\8-18-2011\ININFailedMessageDeliveryUtility\ININFailedMessageDeliveryUtility\obj\x86\Debug\WindowsFormsApplication1.MainForm_MessageBody.resources
